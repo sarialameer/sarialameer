@@ -3,10 +3,14 @@
     alt="Sari G. Al-Ameer - Space & Solar Physics" width="100%">
 </p>
 
+
+---
+    
+# Sari G. Al-Ameer
+
 <img src="https://github.com/user-attachments/assets/b6366a77-b5cd-4254-9a21-5c10b468d6af" align="right" width="180"
      alt="Solar eclipse in ASCII">
      
-# Sari G. Al-Ameer
 **Astronomy & Physics BSc, King Abdulaziz University (2022–2026)**
 
 Space weather, solar-terrestrial physics, and the instruments that measure them.
@@ -21,7 +25,7 @@ Space weather, solar-terrestrial physics, and the instruments that measure them.
 | | |
 |---|---|
 | **Language** | Python (NumPy, SciPy, Pandas, Matplotlib), Bash |
-| **Systems** | Debian Linux, crontab automation, self-hosted NAS |
+| **Systems** | Debian based Linux, crontab automation, self-hosted NAS |
 | **Domain** | VLF radio, ionospheric monitoring, solar flare detection, time-series analysis |
 | **Imaging** | Astrophotography capture, stacking, noise reduction, image processing |
 
