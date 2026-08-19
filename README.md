@@ -11,7 +11,7 @@
 <img src="https://github.com/user-attachments/assets/b6366a77-b5cd-4254-9a21-5c10b468d6af" align="right" width="180"
      alt="Solar eclipse in ASCII">
      
-**Astronomy & Physics BSc, King Abdulaziz University (2022–2026)**
+**Astronomy & Physics BSc, King Abdulaziz University**
 
 Space weather, solar-terrestrial physics, and the instruments that measure them.
 
