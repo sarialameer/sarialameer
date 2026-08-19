@@ -1,5 +1,7 @@
-## Hi there 👋
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2046a640-ac65-434b-a870-ccd03bca6273"
+    alt="Sari G. Al-Ameer - Space & Solar Physics" width="100%">
+</p>
 <!--
 **sarialameer/sarialameer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
