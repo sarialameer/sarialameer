@@ -33,7 +33,6 @@ Space weather, solar-terrestrial physics, and the instruments that measure them.
 |---|---|
 | 2025 | Space Week 2025 participant, Department of Astronomy and Space Science, KAU |
 | 2025 | Top 10, Solar System Astrophotography Competition, Saudi Space Agency |
-| 2024/2025 | Certificate of Excellence, Department of Astronomy and Space Science, KAU |
 | 2024 | First Place, Image Processing, Astrophotography Competition, KAU |
 
 **Certifications**
