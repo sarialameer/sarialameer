@@ -37,4 +37,7 @@ The cards below are drawings of work that is still in progress.
 
 ## Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/sarialameer/)
+[LinkedIn](https://www.linkedin.com/in/sarialameer/) · Arabic (native) · English
+
+<sub>Open to work in space weather monitoring, scientific instrumentation, and
+observational data pipelines.</sub>
